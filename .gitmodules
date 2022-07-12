@@ -3,21 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "gemtc"]
-	path = gemtc
-	url = https://github.com/gertvv/gemtc
-	shallow = true
-	subdir = gemtc
-	registered = true
-[submodule "hitandrun"]
-	path = hitandrun
-	url = https://github.com/gertvv/hitandrun
-	shallow = true
-	subdir = hitandrun
-	registered = true
-[submodule "smaa"]
-	path = smaa
-	url = https://github.com/gertvv/rsmaa
-	shallow = true
-	subdir = smaa
-	registered = true
