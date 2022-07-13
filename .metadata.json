@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "gemtc",
+    "oncran": true
+  },
+  {
+    "package": "hitandrun",
+    "oncran": true
+  },
+  {
+    "package": "smaa",
+    "oncran": true
+  }
+]
